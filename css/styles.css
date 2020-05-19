@@ -1,0 +1,46 @@
+body{
+    font-family:"ubuntu";
+    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 3rem;
+    color: white;
+
+}
+h3{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    padding-top: 1rem;
+    
+}
+.container-fluid{
+    padding:3% 15%;
+}
+#title{
+    font-weight: bolder;
+    background-color: #ff4c68;
+}
+#web-title{
+    font-weight: bolder;
+    font-size: 2rem;
+}
+#phn{
+    transform: rotate(25deg);
+}
+
+.feature {
+    text-align: center;
+    padding:8%;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
